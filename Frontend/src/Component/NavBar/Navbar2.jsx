@@ -36,9 +36,7 @@ const NavBar2 = () => {
             <div className="flex justify-center content-center items-center">
               <IoIosHeart className="text-2xl" />
             </div>
-            <Link to="/about" className="border-bottom2">
-              Wishlist
-            </Link>
+           
           </li>
           <li className="flex my-4 gap-5 hover:bg-blue-gray-200 px-4 py-1 rounded w-60">
           <div className="flex justify-center content-center items-center relative">
